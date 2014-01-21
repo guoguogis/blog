@@ -1,11 +1,7 @@
 {
 	"docs"      : {
-		"关于我的博客": "README.md",
-		"gitpress": "posts/gitpress",
+		"AboutMe": "README.md",
 		"PHP": "posts/PHP",
-		"Python": "posts/python",
-		"JavaScript": "posts/JavaScript",
-		"算法": "posts/算法",
-		"其他": "posts"
+		"JavaScript": "posts/JavaScript"
 	}
 }
