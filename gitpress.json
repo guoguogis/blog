@@ -1,9 +1,16 @@
 {
-	"docs": {
-		"AboutMe": "README.md",
-		"PHP": "posts/PHP",
-		"JavaScript": "posts/JavaScript"
-	},
-    "title":"Akira's Blog",
-    "domain-alias":["www.gisthink.com"]
+    "docs": {
+        "AboutMe": "README.md",
+        "PHP": "posts/PHP",
+        "JavaScript": "posts/JavaScript"
+    },
+    "title": "果果的芳草地",
+    "perpage": 10,
+    "template": "pithiness",
+    "friends": [{
+            "name": "guoguogis",
+            "title": "guoguogis的wp博客",
+            "url": "http://www.gisthink.com"
+        }
+    }
 }
