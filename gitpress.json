@@ -7,6 +7,7 @@
     "title": "果果的芳草地",
     "perpage": 10,
     "template": "greyshade", // default、slate、tactile、phase、pithiness、greyshade
+    "comment"     : {"type": "duoshuo", "short_name": "guoguogis"},
     "friends": [{
             "name": "guoguogis",
             "title": "guoguogis的wp博客",
