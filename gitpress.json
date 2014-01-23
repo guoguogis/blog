@@ -1,7 +1,9 @@
 {
-	"docs"      : {
+	"docs": {
 		"AboutMe": "README.md",
 		"PHP": "posts/PHP",
 		"JavaScript": "posts/JavaScript"
-	}
+	},
+    "title":"Akira's Blog",
+    "domain-alias":["www.gisthink.com"]
 }
