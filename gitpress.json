@@ -4,14 +4,14 @@
         "JavaScript": "posts/JavaScript"
         "AboutMe": "README.md",
     },
-    "title": "果果的芳草地",
-    "perpage": 10,
-    "template": "greyshade", // default、slate、tactile、phase、pithiness、greyshade
-    "friends": [{
-        "name": "guoguogis",
-        "title": "guoguogis的wp博客",
-        "url": "http://www.gisthink.com"
-    }]//,
+    "title": "果果的芳草地"//,
+    // "perpage": 10,
+    // "template": "greyshade", // default、slate、tactile、phase、pithiness、greyshade
+    // "friends": [{
+    //     "name": "guoguogis",
+    //     "title": "guoguogis的wp博客",
+    //     "url": "http://www.gisthink.com"
+    // }]//,
     // "types": {
     //     "\\.(md||markdown)$": "markdown",
     //     "\\.(js||css||json)$": "code",
