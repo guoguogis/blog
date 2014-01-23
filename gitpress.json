@@ -11,15 +11,15 @@
         "name": "guoguogis",
         "title": "guoguogis的wp博客",
         "url": "http://www.gisthink.com"
-    }],
+    }]//,
     // "types": {
     //     "\\.(md||markdown)$": "markdown",
     //     "\\.(js||css||json)$": "code",
     //     "\\.html?$": "html",
     //     ".*": "text"
     // },
-    "comment": {
-        "type": "duoshuo",
-        "short_name": "guoguogis"
-    }
+    // "comment": {
+    //     "type": "duoshuo",
+    //     "short_name": "guoguogis"
+    // }
 }
