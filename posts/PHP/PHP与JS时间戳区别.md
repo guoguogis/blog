@@ -1,17 +1,5 @@
-About ME
+PHP与JS时间戳区别
 ====
 ----------
-```javascript
-var guoguogis = {
-    "city":"beijing",
-    "age":"27",
-    "skills":[
-        "html5":"",
-        "flash/flex":"",
-        "php":"",
-        "C#":"",
-        "android":""
-    ]
-};
-```
+
 ----------
