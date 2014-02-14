@@ -1,4 +1,5 @@
 # Array数据类型判断
+====
 
 - pubdate: 2014-01-27
 - tags:javascript 类型检测 Array
