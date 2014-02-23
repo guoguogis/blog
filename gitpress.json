@@ -7,7 +7,7 @@
     "title": "guoguogis",
     "description":"果果的芳草地",
     "perpage": 10,
-    "template": "slate", // default、slate、tactile、phase、pithiness、greyshade
+    "template": "greyshade", // default、slate、tactile、phase、pithiness、greyshade
     "comment"     : {"type": "duoshuo", "short_name": "guoguogis"},
     "friends": [{
             "name": "guoguogis",
