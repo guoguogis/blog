@@ -1,11 +1,5 @@
 Array数据类型判断
-====
-# Array数据类型判断
-- pubdate: 2014-01-27
-- tags:javascript 类型检测 Array
-- topic: javascript
-
-通过构造isArray方法来判断各种情况下Array类型的检测！
+===
 -------
 
 javascript中的数据类型跟其他语言的数据类型有所不同，由于javasprit的弱语言类型的特点，分为基本数据类型(string,bollean,number,undefined,null)和复杂数据类型array,function,object等。
@@ -76,5 +70,5 @@ var a = [];
 console.log(Array.isArray(a));//true
 ```
 
-
+-------
 
