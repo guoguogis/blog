@@ -4,9 +4,9 @@
         "JavaScript": "posts/JavaScript",
         "Others":"posts/others"
     },
-    //"domain-alias"  : ["www.jeosea.com"],
-    "title": "guoguogis",
-    "description":"果果的芳草地",
+    // "domain-alias"  : ["www.jeosea.com"],
+    "title": "Guoguogis",
+    "description":"get busy living or dying.",
     "perpage": 10,
     "template": "greyshade", // default、slate、tactile、phase、pithiness、greyshade
     "comment"     : {"type": "duoshuo", "short_name": "guoguogis"},
