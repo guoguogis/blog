@@ -4,7 +4,7 @@
         "JavaScript": "posts/JavaScript",
         "Others":"posts/others"
     },
-    "domain-alias"  : ["www.jeosea.com"],
+    // "domain-alias"  : ["www.jeosea.com"],
     "title": "Guoguogis",
     "description":"get busy living or dying.",
     "perpage": 10,
