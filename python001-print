@@ -7,7 +7,8 @@ python 中没有括号进行块的分隔，需要直接用4个空格来助力块
 
 #后的代码为注释
 
-from random import randint 导入一个模块的某个方法
+from random import randint 导入一个模块的某个方法、变量
+import random 导入一个模块
 
 for i in range(a,b),从a循环到b-1,并从序列中取出值赋值给i
 
@@ -63,7 +64,7 @@ out.write(data)
 out.close()
 
 
-异常处理：
+异常处理：与JS的try..catch不同
 try:
    f = file('non-exist.txt')
    print 'File opened!'
@@ -72,5 +73,5 @@ except:
    print 'File not exists.'
 print 'Done'
 
-
+python中的字典就是JS中的对象。
 
