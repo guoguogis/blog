@@ -32,3 +32,45 @@ bool(x)
 函数：
 def sayHello():
     print{'hello world'};
+
+
+JS中的if(a){xxx}else if(b){yyy},可以写成如下；
+if a
+    xxx
+elif b
+    yyy
+
+JS中的if(a){xxx}else{yyy}，可以写成如下：
+if a
+   xxx
+else 
+   yyy
+
+list 跟JS中的array一样，可以混合成不同类型成员组成的list
+访问list的元素时注意下表越界问题。
+I=[1,'a'];
+I.append(1024);
+与[].push相同。
+[].join()与JS中的相同
+python中的字符串遍历与JS的一样，其字符串具有长度且可遍历。
+
+读取文件，read('1.txt'),readline('1.txt'),readlines('1.txt');
+
+写文件：
+data = 'I will be in a file.\nSo cool!'
+out = open('output.txt', 'w')
+out.write(data)
+out.close()
+
+
+异常处理：
+try:
+   f = file('non-exist.txt')
+   print 'File opened!'
+   f.close()
+except:
+   print 'File not exists.'
+print 'Done'
+
+
+
