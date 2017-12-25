@@ -30,7 +30,7 @@ float(x)
 str(x)
 bool(x)
 
-函数：
+函数：函数的默认参数方式和JS中的一样，如果一个参数有默认值，那么该参数后的所有参数都需要有默认值
 def sayHello():
     print{'hello world'};
 
